@@ -1,0 +1,6 @@
+{
+  "_comment": "Manual corrections. groupWinners: force a group winner when FIFA tiebreakers beyond pts/GD/GF decide it, e.g. {\"A\": \"Mexico\"}. extraMatches: add match objects the API is missing (same shape as data/matches.json entries, use string ids like \"manual-1\"). excludeMatchIds: list of match ids to ignore.",
+  "groupWinners": {},
+  "extraMatches": [],
+  "excludeMatchIds": []
+}

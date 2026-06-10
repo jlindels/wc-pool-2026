@@ -1,0 +1,49 @@
+{
+  "name": "World Cup 2026 Pool",
+  "scoring": {
+    "groupWin": 3,
+    "groupDraw": 1,
+    "groupWinnerBonus": 5,
+    "knockoutAppearance": 5,
+    "championBonus": 0
+  },
+  "players": [
+    { "name": "Sammy",   "teams": ["Portugal", "Turkey", "Jordan"] },
+    { "name": "Paddy",   "teams": ["USA", "Australia", "Saudi Arabia"] },
+    { "name": "TJ",      "teams": ["France", "Austria", "Tunisia"] },
+    { "name": "Jacob",   "teams": ["Croatia", "Switzerland", "South Africa"] },
+    { "name": "Farfel",  "teams": ["Netherlands", "Canada", "Cabo Verde"] },
+    { "name": "Jared",   "teams": ["Senegal", "Norway", "DR Congo"] },
+    { "name": "Sanchez", "teams": ["Belgium", "Panama", "Paraguay"] },
+    { "name": "Dean",    "teams": ["Argentina", "Ecuador", "New Zealand"] },
+    { "name": "Jonah",   "teams": ["Spain", "South Korea", "Bosnia & Herzegovina"] },
+    { "name": "Dan",     "teams": ["England", "Ivory Coast", "Haiti"] },
+    { "name": "Parsons", "teams": ["Germany", "Japan", "Curacao"] },
+    { "name": "Jrich",   "teams": ["Brazil", "Egypt", "Scotland"] },
+    { "name": "Ben",     "teams": ["Colombia", "Iran", "Ghana"] },
+    { "name": "Grant",   "teams": ["Mexico", "Algeria", "Uzbekistan"] },
+    { "name": "Peter",   "teams": ["Uruguay", "Czechia", "Qatar"] },
+    { "name": "Josh",    "teams": ["Morocco", "Sweden", "Iraq"] }
+  ],
+  "aliases": {
+    "Türkiye": "Turkey",
+    "Turkiye": "Turkey",
+    "United States": "USA",
+    "United States of America": "USA",
+    "Côte d'Ivoire": "Ivory Coast",
+    "Cote d'Ivoire": "Ivory Coast",
+    "Korea Republic": "South Korea",
+    "Republic of Korea": "South Korea",
+    "Congo DR": "DR Congo",
+    "Democratic Republic of the Congo": "DR Congo",
+    "Congo, Democratic Republic of the": "DR Congo",
+    "Cape Verde": "Cabo Verde",
+    "Cape Verde Islands": "Cabo Verde",
+    "Czech Republic": "Czechia",
+    "Bosnia and Herzegovina": "Bosnia & Herzegovina",
+    "Bosnia-Herzegovina": "Bosnia & Herzegovina",
+    "Curaçao": "Curacao",
+    "IR Iran": "Iran",
+    "Holland": "Netherlands"
+  }
+}
