@@ -8,9 +8,9 @@ automatically from [football-data.org](https://www.football-data.org/) every
 
 - **Group stage:** 3 pts per win, 1 pt per draw, **+5** for finishing first in the group.
 - **Knockouts:** **+5** for each round reached — Round of 32, Round of 16,
-  quarter-final, semi-final, final. (The third-place match doesn't score; a
-  bonus for winning the final can be enabled via `championBonus` in
-  `data/pool.json`, currently 0.)
+  quarter-final, semi-final, final — and **+5** more for winning the final.
+  (The third-place match doesn't score. All point values are configurable in
+  `data/pool.json`.)
 - **Player score** = sum of their 3 teams. Ties broken by combined goal
   difference, then combined goals scored.
 - **🥄 Wooden spoon:** the single worst team — fewest group-stage points, then

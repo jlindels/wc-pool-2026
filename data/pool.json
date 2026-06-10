@@ -5,7 +5,7 @@
     "groupDraw": 1,
     "groupWinnerBonus": 5,
     "knockoutAppearance": 5,
-    "championBonus": 0
+    "championBonus": 5
   },
   "players": [
     { "name": "Sammy",   "teams": ["Portugal", "Turkey", "Jordan"] },

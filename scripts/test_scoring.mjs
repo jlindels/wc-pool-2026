@@ -115,9 +115,19 @@ const mini = {
     const expected =
       t.matchPts +
       (t.groupWinner ? 5 : 0) +
-      Object.keys(t.stages).length * 5;
+      Object.keys(t.stages).length * 5 +
+      (t.champion ? 5 : 0);
     assert.equal(t.points, expected, `${t.name} points reconcile`);
   }
+
+  // Exactly one champion, earning the +5 bonus on top of all 5 stage bonuses.
+  const champs = Object.values(r.teams).filter((t) => t.champion);
+  assert.equal(champs.length, 1, "one champion");
+  assert.equal(
+    champs[0].points,
+    champs[0].matchPts + (champs[0].groupWinner ? 5 : 0) + 25 + 5,
+    "champion gets +5 winner bonus"
+  );
 
   // Players sorted by total desc, then GD, then GF.
   for (let i = 1; i < r.players.length; i++) {
