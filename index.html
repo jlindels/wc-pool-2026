@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>World Cup 2026 Pool</title>
+  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9917;</text></svg>" />
+</head>
+<body>
+  <header>
+    <h1>&#9917; World Cup 2026 Pool</h1>
+    <p id="updated" class="muted">Loading&hellip;</p>
+  </header>
+
+  <div id="demo-banner" class="banner hidden">
+    DEMO DATA &mdash; simulated tournament for previewing the scoring. Remove <code>?demo=1</code> from the URL for real results.
+  </div>
+  <div id="warnings" class="banner warn hidden"></div>
+  <div id="error" class="banner warn hidden"></div>
+
+  <main>
+    <section id="leaderboard-section">
+      <h2>Leaderboard</h2>
+      <div id="leaderboard"></div>
+    </section>
+
+    <section id="spoon-section">
+      <h2>&#129348; Wooden Spoon</h2>
+      <div id="spoon"></div>
+    </section>
+
+    <section id="knockout-section" class="hidden">
+      <h2>Knockout qualifiers</h2>
+      <div id="knockout"></div>
+    </section>
+
+    <section id="groups-section">
+      <h2>Group stage</h2>
+      <div id="groups" class="group-grid"></div>
+    </section>
+
+    <section id="results-section">
+      <h2>Latest matches</h2>
+      <div id="results"></div>
+    </section>
+
+    <section>
+      <h2>Scoring rules</h2>
+      <ul class="rules">
+        <li>Group stage: <b>3 pts</b> per win, <b>1 pt</b> per draw, <b>+5 pts</b> for finishing first in the group.</li>
+        <li>Knockouts: <b>+5 pts</b> for each round reached (Round of 32, Round of 16, quarter-final, semi-final, final), and <b>+5 pts</b> for winning the whole thing.</li>
+        <li>Player score = sum of their 3 teams. Ties broken by combined goal difference, then combined goals scored.</li>
+        <li>Wooden spoon: single worst team &mdash; fewest group-stage points, then worst goal difference, then most goals against.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="muted">
+    Scores update automatically every 30 minutes via GitHub Actions &middot; data from football-data.org
+  </footer>
+
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>
