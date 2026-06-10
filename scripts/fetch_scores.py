@@ -51,7 +51,7 @@ def normalize(m: dict) -> dict:
     out = {
         "id": m.get("id"),
         "stage": STAGE_MAP.get(m.get("stage"), m.get("stage")),
-        "group": group.replace("Group ", "") if group else None,
+        "group": group.replace("Group ", "").replace("GROUP_", "") if group else None,
         "utcDate": m.get("utcDate"),
         "status": STATUS_MAP.get(m.get("status"), "SCHEDULED"),
         "home": (m.get("homeTeam") or {}).get("name"),
