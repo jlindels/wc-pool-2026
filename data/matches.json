@@ -1,11 +1,11 @@
 {
- "updated": "2026-06-10T22:46:33+00:00",
+ "updated": "2026-06-11T00:12:08+00:00",
  "source": "football-data.org",
  "matches": [
   {
    "id": 537327,
    "stage": "GROUP",
-   "group": "GROUP_A",
+   "group": "A",
    "utcDate": "2026-06-11T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Mexico",
@@ -17,7 +17,7 @@
   {
    "id": 537328,
    "stage": "GROUP",
-   "group": "GROUP_A",
+   "group": "A",
    "utcDate": "2026-06-12T02:00:00Z",
    "status": "SCHEDULED",
    "home": "South Korea",
@@ -29,7 +29,7 @@
   {
    "id": 537333,
    "stage": "GROUP",
-   "group": "GROUP_B",
+   "group": "B",
    "utcDate": "2026-06-12T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Canada",
@@ -41,7 +41,7 @@
   {
    "id": 537345,
    "stage": "GROUP",
-   "group": "GROUP_D",
+   "group": "D",
    "utcDate": "2026-06-13T01:00:00Z",
    "status": "SCHEDULED",
    "home": "United States",
@@ -53,7 +53,7 @@
   {
    "id": 537334,
    "stage": "GROUP",
-   "group": "GROUP_B",
+   "group": "B",
    "utcDate": "2026-06-13T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Qatar",
@@ -65,7 +65,7 @@
   {
    "id": 537339,
    "stage": "GROUP",
-   "group": "GROUP_C",
+   "group": "C",
    "utcDate": "2026-06-13T22:00:00Z",
    "status": "SCHEDULED",
    "home": "Brazil",
@@ -77,7 +77,7 @@
   {
    "id": 537340,
    "stage": "GROUP",
-   "group": "GROUP_C",
+   "group": "C",
    "utcDate": "2026-06-14T01:00:00Z",
    "status": "SCHEDULED",
    "home": "Haiti",
@@ -89,7 +89,7 @@
   {
    "id": 537346,
    "stage": "GROUP",
-   "group": "GROUP_D",
+   "group": "D",
    "utcDate": "2026-06-14T04:00:00Z",
    "status": "SCHEDULED",
    "home": "Australia",
@@ -101,7 +101,7 @@
   {
    "id": 537351,
    "stage": "GROUP",
-   "group": "GROUP_E",
+   "group": "E",
    "utcDate": "2026-06-14T17:00:00Z",
    "status": "SCHEDULED",
    "home": "Germany",
@@ -113,7 +113,7 @@
   {
    "id": 537357,
    "stage": "GROUP",
-   "group": "GROUP_F",
+   "group": "F",
    "utcDate": "2026-06-14T20:00:00Z",
    "status": "SCHEDULED",
    "home": "Netherlands",
@@ -125,7 +125,7 @@
   {
    "id": 537352,
    "stage": "GROUP",
-   "group": "GROUP_E",
+   "group": "E",
    "utcDate": "2026-06-14T23:00:00Z",
    "status": "SCHEDULED",
    "home": "Ivory Coast",
@@ -137,7 +137,7 @@
   {
    "id": 537358,
    "stage": "GROUP",
-   "group": "GROUP_F",
+   "group": "F",
    "utcDate": "2026-06-15T02:00:00Z",
    "status": "SCHEDULED",
    "home": "Sweden",
@@ -149,7 +149,7 @@
   {
    "id": 537369,
    "stage": "GROUP",
-   "group": "GROUP_H",
+   "group": "H",
    "utcDate": "2026-06-15T16:00:00Z",
    "status": "SCHEDULED",
    "home": "Spain",
@@ -161,7 +161,7 @@
   {
    "id": 537363,
    "stage": "GROUP",
-   "group": "GROUP_G",
+   "group": "G",
    "utcDate": "2026-06-15T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Belgium",
@@ -173,7 +173,7 @@
   {
    "id": 537370,
    "stage": "GROUP",
-   "group": "GROUP_H",
+   "group": "H",
    "utcDate": "2026-06-15T22:00:00Z",
    "status": "SCHEDULED",
    "home": "Saudi Arabia",
@@ -185,7 +185,7 @@
   {
    "id": 537364,
    "stage": "GROUP",
-   "group": "GROUP_G",
+   "group": "G",
    "utcDate": "2026-06-16T01:00:00Z",
    "status": "SCHEDULED",
    "home": "Iran",
@@ -197,7 +197,7 @@
   {
    "id": 537391,
    "stage": "GROUP",
-   "group": "GROUP_I",
+   "group": "I",
    "utcDate": "2026-06-16T19:00:00Z",
    "status": "SCHEDULED",
    "home": "France",
@@ -209,7 +209,7 @@
   {
    "id": 537392,
    "stage": "GROUP",
-   "group": "GROUP_I",
+   "group": "I",
    "utcDate": "2026-06-16T22:00:00Z",
    "status": "SCHEDULED",
    "home": "Iraq",
@@ -221,7 +221,7 @@
   {
    "id": 537397,
    "stage": "GROUP",
-   "group": "GROUP_J",
+   "group": "J",
    "utcDate": "2026-06-17T01:00:00Z",
    "status": "SCHEDULED",
    "home": "Argentina",
@@ -233,7 +233,7 @@
   {
    "id": 537398,
    "stage": "GROUP",
-   "group": "GROUP_J",
+   "group": "J",
    "utcDate": "2026-06-17T04:00:00Z",
    "status": "SCHEDULED",
    "home": "Austria",
@@ -245,7 +245,7 @@
   {
    "id": 537403,
    "stage": "GROUP",
-   "group": "GROUP_K",
+   "group": "K",
    "utcDate": "2026-06-17T17:00:00Z",
    "status": "SCHEDULED",
    "home": "Portugal",
@@ -257,7 +257,7 @@
   {
    "id": 537409,
    "stage": "GROUP",
-   "group": "GROUP_L",
+   "group": "L",
    "utcDate": "2026-06-17T20:00:00Z",
    "status": "SCHEDULED",
    "home": "England",
@@ -269,7 +269,7 @@
   {
    "id": 537410,
    "stage": "GROUP",
-   "group": "GROUP_L",
+   "group": "L",
    "utcDate": "2026-06-17T23:00:00Z",
    "status": "SCHEDULED",
    "home": "Ghana",
@@ -281,7 +281,7 @@
   {
    "id": 537404,
    "stage": "GROUP",
-   "group": "GROUP_K",
+   "group": "K",
    "utcDate": "2026-06-18T02:00:00Z",
    "status": "SCHEDULED",
    "home": "Uzbekistan",
@@ -293,7 +293,7 @@
   {
    "id": 537329,
    "stage": "GROUP",
-   "group": "GROUP_A",
+   "group": "A",
    "utcDate": "2026-06-18T16:00:00Z",
    "status": "SCHEDULED",
    "home": "Czechia",
@@ -305,7 +305,7 @@
   {
    "id": 537335,
    "stage": "GROUP",
-   "group": "GROUP_B",
+   "group": "B",
    "utcDate": "2026-06-18T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Switzerland",
@@ -317,7 +317,7 @@
   {
    "id": 537336,
    "stage": "GROUP",
-   "group": "GROUP_B",
+   "group": "B",
    "utcDate": "2026-06-18T22:00:00Z",
    "status": "SCHEDULED",
    "home": "Canada",
@@ -329,7 +329,7 @@
   {
    "id": 537330,
    "stage": "GROUP",
-   "group": "GROUP_A",
+   "group": "A",
    "utcDate": "2026-06-19T01:00:00Z",
    "status": "SCHEDULED",
    "home": "Mexico",
@@ -341,7 +341,7 @@
   {
    "id": 537348,
    "stage": "GROUP",
-   "group": "GROUP_D",
+   "group": "D",
    "utcDate": "2026-06-19T19:00:00Z",
    "status": "SCHEDULED",
    "home": "United States",
@@ -353,7 +353,7 @@
   {
    "id": 537342,
    "stage": "GROUP",
-   "group": "GROUP_C",
+   "group": "C",
    "utcDate": "2026-06-19T22:00:00Z",
    "status": "SCHEDULED",
    "home": "Scotland",
@@ -365,7 +365,7 @@
   {
    "id": 537341,
    "stage": "GROUP",
-   "group": "GROUP_C",
+   "group": "C",
    "utcDate": "2026-06-20T00:30:00Z",
    "status": "SCHEDULED",
    "home": "Brazil",
@@ -377,7 +377,7 @@
   {
    "id": 537347,
    "stage": "GROUP",
-   "group": "GROUP_D",
+   "group": "D",
    "utcDate": "2026-06-20T03:00:00Z",
    "status": "SCHEDULED",
    "home": "Turkey",
@@ -389,7 +389,7 @@
   {
    "id": 537359,
    "stage": "GROUP",
-   "group": "GROUP_F",
+   "group": "F",
    "utcDate": "2026-06-20T17:00:00Z",
    "status": "SCHEDULED",
    "home": "Netherlands",
@@ -401,7 +401,7 @@
   {
    "id": 537353,
    "stage": "GROUP",
-   "group": "GROUP_E",
+   "group": "E",
    "utcDate": "2026-06-20T20:00:00Z",
    "status": "SCHEDULED",
    "home": "Germany",
@@ -413,7 +413,7 @@
   {
    "id": 537354,
    "stage": "GROUP",
-   "group": "GROUP_E",
+   "group": "E",
    "utcDate": "2026-06-21T00:00:00Z",
    "status": "SCHEDULED",
    "home": "Ecuador",
@@ -425,7 +425,7 @@
   {
    "id": 537360,
    "stage": "GROUP",
-   "group": "GROUP_F",
+   "group": "F",
    "utcDate": "2026-06-21T04:00:00Z",
    "status": "SCHEDULED",
    "home": "Tunisia",
@@ -437,7 +437,7 @@
   {
    "id": 537371,
    "stage": "GROUP",
-   "group": "GROUP_H",
+   "group": "H",
    "utcDate": "2026-06-21T16:00:00Z",
    "status": "SCHEDULED",
    "home": "Spain",
@@ -449,7 +449,7 @@
   {
    "id": 537365,
    "stage": "GROUP",
-   "group": "GROUP_G",
+   "group": "G",
    "utcDate": "2026-06-21T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Belgium",
@@ -461,7 +461,7 @@
   {
    "id": 537372,
    "stage": "GROUP",
-   "group": "GROUP_H",
+   "group": "H",
    "utcDate": "2026-06-21T22:00:00Z",
    "status": "SCHEDULED",
    "home": "Uruguay",
@@ -473,7 +473,7 @@
   {
    "id": 537366,
    "stage": "GROUP",
-   "group": "GROUP_G",
+   "group": "G",
    "utcDate": "2026-06-22T01:00:00Z",
    "status": "SCHEDULED",
    "home": "New Zealand",
@@ -485,7 +485,7 @@
   {
    "id": 537399,
    "stage": "GROUP",
-   "group": "GROUP_J",
+   "group": "J",
    "utcDate": "2026-06-22T17:00:00Z",
    "status": "SCHEDULED",
    "home": "Argentina",
@@ -497,7 +497,7 @@
   {
    "id": 537393,
    "stage": "GROUP",
-   "group": "GROUP_I",
+   "group": "I",
    "utcDate": "2026-06-22T21:00:00Z",
    "status": "SCHEDULED",
    "home": "France",
@@ -509,7 +509,7 @@
   {
    "id": 537394,
    "stage": "GROUP",
-   "group": "GROUP_I",
+   "group": "I",
    "utcDate": "2026-06-23T00:00:00Z",
    "status": "SCHEDULED",
    "home": "Norway",
@@ -521,7 +521,7 @@
   {
    "id": 537400,
    "stage": "GROUP",
-   "group": "GROUP_J",
+   "group": "J",
    "utcDate": "2026-06-23T03:00:00Z",
    "status": "SCHEDULED",
    "home": "Jordan",
@@ -533,7 +533,7 @@
   {
    "id": 537405,
    "stage": "GROUP",
-   "group": "GROUP_K",
+   "group": "K",
    "utcDate": "2026-06-23T17:00:00Z",
    "status": "SCHEDULED",
    "home": "Portugal",
@@ -545,7 +545,7 @@
   {
    "id": 537411,
    "stage": "GROUP",
-   "group": "GROUP_L",
+   "group": "L",
    "utcDate": "2026-06-23T20:00:00Z",
    "status": "SCHEDULED",
    "home": "England",
@@ -557,7 +557,7 @@
   {
    "id": 537412,
    "stage": "GROUP",
-   "group": "GROUP_L",
+   "group": "L",
    "utcDate": "2026-06-23T23:00:00Z",
    "status": "SCHEDULED",
    "home": "Panama",
@@ -569,7 +569,7 @@
   {
    "id": 537406,
    "stage": "GROUP",
-   "group": "GROUP_K",
+   "group": "K",
    "utcDate": "2026-06-24T02:00:00Z",
    "status": "SCHEDULED",
    "home": "Colombia",
@@ -581,7 +581,7 @@
   {
    "id": 537337,
    "stage": "GROUP",
-   "group": "GROUP_B",
+   "group": "B",
    "utcDate": "2026-06-24T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Switzerland",
@@ -593,7 +593,7 @@
   {
    "id": 537338,
    "stage": "GROUP",
-   "group": "GROUP_B",
+   "group": "B",
    "utcDate": "2026-06-24T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Bosnia-Herzegovina",
@@ -605,7 +605,7 @@
   {
    "id": 537343,
    "stage": "GROUP",
-   "group": "GROUP_C",
+   "group": "C",
    "utcDate": "2026-06-24T22:00:00Z",
    "status": "SCHEDULED",
    "home": "Scotland",
@@ -617,7 +617,7 @@
   {
    "id": 537344,
    "stage": "GROUP",
-   "group": "GROUP_C",
+   "group": "C",
    "utcDate": "2026-06-24T22:00:00Z",
    "status": "SCHEDULED",
    "home": "Morocco",
@@ -629,7 +629,7 @@
   {
    "id": 537331,
    "stage": "GROUP",
-   "group": "GROUP_A",
+   "group": "A",
    "utcDate": "2026-06-25T01:00:00Z",
    "status": "SCHEDULED",
    "home": "Czechia",
@@ -641,7 +641,7 @@
   {
    "id": 537332,
    "stage": "GROUP",
-   "group": "GROUP_A",
+   "group": "A",
    "utcDate": "2026-06-25T01:00:00Z",
    "status": "SCHEDULED",
    "home": "South Africa",
@@ -653,7 +653,7 @@
   {
    "id": 537355,
    "stage": "GROUP",
-   "group": "GROUP_E",
+   "group": "E",
    "utcDate": "2026-06-25T20:00:00Z",
    "status": "SCHEDULED",
    "home": "Ecuador",
@@ -665,7 +665,7 @@
   {
    "id": 537356,
    "stage": "GROUP",
-   "group": "GROUP_E",
+   "group": "E",
    "utcDate": "2026-06-25T20:00:00Z",
    "status": "SCHEDULED",
    "home": "Curaçao",
@@ -677,7 +677,7 @@
   {
    "id": 537361,
    "stage": "GROUP",
-   "group": "GROUP_F",
+   "group": "F",
    "utcDate": "2026-06-25T23:00:00Z",
    "status": "SCHEDULED",
    "home": "Tunisia",
@@ -689,7 +689,7 @@
   {
    "id": 537362,
    "stage": "GROUP",
-   "group": "GROUP_F",
+   "group": "F",
    "utcDate": "2026-06-25T23:00:00Z",
    "status": "SCHEDULED",
    "home": "Japan",
@@ -701,7 +701,7 @@
   {
    "id": 537349,
    "stage": "GROUP",
-   "group": "GROUP_D",
+   "group": "D",
    "utcDate": "2026-06-26T02:00:00Z",
    "status": "SCHEDULED",
    "home": "Turkey",
@@ -713,7 +713,7 @@
   {
    "id": 537350,
    "stage": "GROUP",
-   "group": "GROUP_D",
+   "group": "D",
    "utcDate": "2026-06-26T02:00:00Z",
    "status": "SCHEDULED",
    "home": "Paraguay",
@@ -725,7 +725,7 @@
   {
    "id": 537395,
    "stage": "GROUP",
-   "group": "GROUP_I",
+   "group": "I",
    "utcDate": "2026-06-26T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Norway",
@@ -737,7 +737,7 @@
   {
    "id": 537396,
    "stage": "GROUP",
-   "group": "GROUP_I",
+   "group": "I",
    "utcDate": "2026-06-26T19:00:00Z",
    "status": "SCHEDULED",
    "home": "Senegal",
@@ -749,7 +749,7 @@
   {
    "id": 537373,
    "stage": "GROUP",
-   "group": "GROUP_H",
+   "group": "H",
    "utcDate": "2026-06-27T00:00:00Z",
    "status": "SCHEDULED",
    "home": "Uruguay",
@@ -761,7 +761,7 @@
   {
    "id": 537374,
    "stage": "GROUP",
-   "group": "GROUP_H",
+   "group": "H",
    "utcDate": "2026-06-27T00:00:00Z",
    "status": "SCHEDULED",
    "home": "Cape Verde Islands",
@@ -773,7 +773,7 @@
   {
    "id": 537367,
    "stage": "GROUP",
-   "group": "GROUP_G",
+   "group": "G",
    "utcDate": "2026-06-27T03:00:00Z",
    "status": "SCHEDULED",
    "home": "New Zealand",
@@ -785,7 +785,7 @@
   {
    "id": 537368,
    "stage": "GROUP",
-   "group": "GROUP_G",
+   "group": "G",
    "utcDate": "2026-06-27T03:00:00Z",
    "status": "SCHEDULED",
    "home": "Egypt",
@@ -797,7 +797,7 @@
   {
    "id": 537413,
    "stage": "GROUP",
-   "group": "GROUP_L",
+   "group": "L",
    "utcDate": "2026-06-27T21:00:00Z",
    "status": "SCHEDULED",
    "home": "Panama",
@@ -809,7 +809,7 @@
   {
    "id": 537414,
    "stage": "GROUP",
-   "group": "GROUP_L",
+   "group": "L",
    "utcDate": "2026-06-27T21:00:00Z",
    "status": "SCHEDULED",
    "home": "Croatia",
@@ -821,7 +821,7 @@
   {
    "id": 537407,
    "stage": "GROUP",
-   "group": "GROUP_K",
+   "group": "K",
    "utcDate": "2026-06-27T23:30:00Z",
    "status": "SCHEDULED",
    "home": "Colombia",
@@ -833,7 +833,7 @@
   {
    "id": 537408,
    "stage": "GROUP",
-   "group": "GROUP_K",
+   "group": "K",
    "utcDate": "2026-06-27T23:30:00Z",
    "status": "SCHEDULED",
    "home": "Congo DR",
@@ -845,7 +845,7 @@
   {
    "id": 537401,
    "stage": "GROUP",
-   "group": "GROUP_J",
+   "group": "J",
    "utcDate": "2026-06-28T02:00:00Z",
    "status": "SCHEDULED",
    "home": "Jordan",
@@ -857,7 +857,7 @@
   {
    "id": 537402,
    "stage": "GROUP",
-   "group": "GROUP_J",
+   "group": "J",
    "utcDate": "2026-06-28T02:00:00Z",
    "status": "SCHEDULED",
    "home": "Algeria",
