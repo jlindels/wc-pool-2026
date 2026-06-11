@@ -72,6 +72,7 @@ def normalize(m: dict) -> dict:
         "group": group.replace("Group ", "").replace("GROUP_", "") if group else None,
         "utcDate": m.get("utcDate"),
         "status": status,
+        "rawStatus": m.get("status"),
         "home": (m.get("homeTeam") or {}).get("name"),
         "away": (m.get("awayTeam") or {}).get("name"),
         "homeGoals": home_goals,
@@ -92,6 +93,19 @@ def main() -> int:
     req = urllib.request.Request(API_URL, headers={"X-Auth-Token": token})
     with urllib.request.urlopen(req, timeout=30) as resp:
         payload = json.load(resp)
+
+    # Diagnostics: surface raw API data for any match that kicked off in the
+    # past but isn't finished, so provider glitches are visible in the logs.
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    for raw in payload.get("matches", []):
+        if (raw.get("utcDate") or "9999") < now and raw.get("status") not in ("FINISHED", "AWARDED"):
+            home = (raw.get("homeTeam") or {}).get("name")
+            away = (raw.get("awayTeam") or {}).get("name")
+            print(
+                f"DIAG past match not finished: id={raw.get('id')} status={raw.get('status')} "
+                f"{home} vs {away} utcDate={raw.get('utcDate')} score={json.dumps(raw.get('score'))}",
+                file=sys.stderr,
+            )
 
     matches = [normalize(m) for m in payload.get("matches", [])]
     matches.sort(key=lambda m: (m.get("utcDate") or "", m.get("id") or 0))
