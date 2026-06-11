@@ -48,16 +48,34 @@ def normalize(m: dict) -> dict:
     full = score.get("fullTime") or {}
     pens = score.get("penalties") or {}
     group = m.get("group") or ""
+
+    home_goals, away_goals = full.get("home"), full.get("away")
+    if home_goals is None:
+        # Fall back to regularTime (+ extraTime) when fullTime hasn't been
+        # populated yet.
+        reg = score.get("regularTime") or {}
+        ext = score.get("extraTime") or {}
+        if reg.get("home") is not None:
+            home_goals = reg["home"] + (ext.get("home") or 0)
+            away_goals = reg["away"] + (ext.get("away") or 0)
+
+    status = STATUS_MAP.get(m.get("status"), "SCHEDULED")
+    # The API sometimes flips a match to FINISHED before backfilling the
+    # score. Treat it as still live until the score exists so the dashboard
+    # never shows a scoreless finished match; the next run picks it up.
+    if status == "FINISHED" and home_goals is None:
+        status = "LIVE"
+
     out = {
         "id": m.get("id"),
         "stage": STAGE_MAP.get(m.get("stage"), m.get("stage")),
         "group": group.replace("Group ", "").replace("GROUP_", "") if group else None,
         "utcDate": m.get("utcDate"),
-        "status": STATUS_MAP.get(m.get("status"), "SCHEDULED"),
+        "status": status,
         "home": (m.get("homeTeam") or {}).get("name"),
         "away": (m.get("awayTeam") or {}).get("name"),
-        "homeGoals": full.get("home"),
-        "awayGoals": full.get("away"),
+        "homeGoals": home_goals,
+        "awayGoals": away_goals,
         "winner": WINNER_MAP.get(score.get("winner")),
     }
     if pens.get("home") is not None:

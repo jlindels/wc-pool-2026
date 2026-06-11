@@ -148,7 +148,7 @@ function renderResults(matchData, aliases) {
       .join("")}</tbody></table>`;
   }
   if (finished.length) {
-    html += `<table><tbody>${finished.slice(0, 12).map((m) => line(m, `${m.homeGoals} - ${m.awayGoals}`)).join("")}</tbody></table>`;
+    html += `<table><tbody>${finished.slice(0, 12).map((m) => line(m, `${m.homeGoals ?? "?"} - ${m.awayGoals ?? "?"}`)).join("")}</tbody></table>`;
   }
   if (!live.length && !finished.length) {
     html += `<p class="muted">No results yet.</p>`;
