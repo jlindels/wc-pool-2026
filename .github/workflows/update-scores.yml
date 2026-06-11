@@ -2,8 +2,13 @@ name: Update scores
 
 on:
   schedule:
-    # Every 30 minutes during the tournament (June 11 - July 19, 2026).
-    - cron: "*/30 * * * *"
+    # Nominally every 15 minutes during the tournament (June 11 - July 19,
+    # 2026). GitHub runs scheduled workflows best-effort and throttles them
+    # aggressively, so in practice this fires far less often. Off-peak minute
+    # offsets (avoiding :00/:30) reduce the throttling a bit. For guaranteed
+    # cadence, trigger the workflow_dispatch event from an external scheduler
+    # (see "Making updates faster" in the README).
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
