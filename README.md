@@ -66,6 +66,31 @@ The dashboard shows a yellow warning banner whenever it needs a manual call.
 | `scripts/test_scoring.mjs` | Tests — run `node scripts/test_scoring.mjs` |
 | `.github/workflows/update-scores.yml` | 30-minute score refresh |
 
+## Making updates faster
+
+GitHub runs cron schedules **best-effort** and throttles free public repos —
+expect runs every 1-4 hours, not every 15 minutes, no matter what the cron
+says. If you want reliable ~30-minute updates during matches, drive the
+workflow from a free external scheduler instead:
+
+1. Create a [fine-grained personal access token](https://github.com/settings/personal-access-tokens/new):
+   resource owner you, only this repository, with **Actions: Read and write**
+   permission. Copy the token.
+2. Sign up at [cron-job.org](https://cron-job.org) (free) and create a job:
+   - URL: `https://api.github.com/repos/jlindels/wc-pool-2026/actions/workflows/update-scores.yml/dispatches`
+   - Schedule: every 30 minutes (or every 15 during match windows)
+   - Request method: `POST`, request body: `{"ref":"main"}`
+   - Headers:
+     - `Authorization`: `Bearer <your token>`
+     - `Accept`: `application/vnd.github+json`
+     - `Content-Type`: `application/json`
+3. A successful trigger returns HTTP 204 and shows up in the Actions tab as a
+   `workflow_dispatch` run within seconds.
+
+The GitHub cron can stay enabled as a fallback; duplicate triggers are
+harmless (the workflow only commits when scores actually changed, and the
+concurrency group prevents overlapping runs).
+
 ## After the tournament
 
 Disable the **Update scores** workflow from the Actions tab (or delete the
