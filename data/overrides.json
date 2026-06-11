@@ -1,6 +1,20 @@
 {
   "_comment": "Manual corrections. groupWinners: force a group winner when FIFA tiebreakers beyond pts/GD/GF decide it, e.g. {\"A\": \"Mexico\"}. extraMatches: add match objects the API is missing (same shape as data/matches.json entries, use string ids like \"manual-1\"). excludeMatchIds: list of match ids to ignore.",
   "groupWinners": {},
-  "extraMatches": [],
-  "excludeMatchIds": []
+  "extraMatches": [
+    {
+      "_why": "API stuck reporting the opening match as TIMED with no score hours after full time (2026-06-11). Entered manually from ESPN/FOX; API copy 537327 excluded below to prevent double-counting once their data backfills. Safe to leave permanently, or delete both entries once the API shows 537327 FINISHED 2-0.",
+      "id": "manual-537327",
+      "stage": "GROUP",
+      "group": "A",
+      "utcDate": "2026-06-11T19:00:00Z",
+      "status": "FINISHED",
+      "home": "Mexico",
+      "away": "South Africa",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "winner": "HOME"
+    }
+  ],
+  "excludeMatchIds": [537327]
 }

@@ -170,6 +170,15 @@ async function main() {
 
     const result = computePool(pool, matchData, overrides || {});
 
+    // Apply overrides to the match list too, so manual results show up.
+    const excluded = new Set(overrides?.excludeMatchIds || []);
+    const displayData = {
+      ...matchData,
+      matches: (matchData.matches || [])
+        .filter((m) => !excluded.has(m.id))
+        .concat(overrides?.extraMatches || []),
+    };
+
     $("#updated").textContent = matchData.updated
       ? `Last updated ${new Date(matchData.updated).toLocaleString()}`
       : "Waiting for the first score update - the tournament starts June 11!";
@@ -178,7 +187,7 @@ async function main() {
     renderSpoon(result);
     renderKnockout(result);
     renderGroups(result);
-    renderResults(matchData, pool.aliases || {});
+    renderResults(displayData, pool.aliases || {});
 
     if (result.warnings.length) {
       const w = $("#warnings");
