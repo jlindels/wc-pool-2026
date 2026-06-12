@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-12T06:21:33+00:00",
+ "updated": "2026-06-12T19:26:18+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -31,12 +31,12 @@
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-12T19:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Canada",
    "away": "Bosnia-Herzegovina",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537345,
