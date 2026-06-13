@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-12T21:18:57+00:00",
+ "updated": "2026-06-13T01:33:04+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -43,12 +43,12 @@
    "stage": "GROUP",
    "group": "D",
    "utcDate": "2026-06-13T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "United States",
    "away": "Paraguay",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "winner": "HOME"
   },
   {
    "id": 537334,
