@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-13T20:00:06+00:00",
+ "updated": "2026-06-13T21:24:34+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -55,12 +55,12 @@
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-13T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Qatar",
    "away": "Switzerland",
-   "homeGoals": 0,
+   "homeGoals": 1,
    "awayGoals": 1,
-   "winner": "AWAY"
+   "winner": "DRAW"
   },
   {
    "id": 537339,
