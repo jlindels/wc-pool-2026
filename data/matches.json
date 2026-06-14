@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T05:03:09+00:00",
+ "updated": "2026-06-14T08:48:02+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -91,10 +91,10 @@
    "stage": "GROUP",
    "group": "D",
    "utcDate": "2026-06-14T04:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Australia",
    "away": "Turkey",
-   "homeGoals": 1,
+   "homeGoals": 2,
    "awayGoals": 0,
    "winner": "HOME"
   },
