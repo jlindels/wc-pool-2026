@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T18:21:56+00:00",
+ "updated": "2026-06-14T20:04:29+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -103,10 +103,10 @@
    "stage": "GROUP",
    "group": "E",
    "utcDate": "2026-06-14T17:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Germany",
    "away": "Curaçao",
-   "homeGoals": 4,
+   "homeGoals": 7,
    "awayGoals": 1,
    "winner": "HOME"
   },
