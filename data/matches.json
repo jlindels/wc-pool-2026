@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T21:36:26+00:00",
+ "updated": "2026-06-14T22:50:15+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -115,12 +115,12 @@
    "stage": "GROUP",
    "group": "F",
    "utcDate": "2026-06-14T20:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Netherlands",
    "away": "Japan",
    "homeGoals": 2,
-   "awayGoals": 1,
-   "winner": "HOME"
+   "awayGoals": 2,
+   "winner": "DRAW"
   },
   {
    "id": 537352,
