@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15T16:31:33+00:00",
+ "updated": "2026-06-15T20:06:08+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -151,7 +151,7 @@
    "stage": "GROUP",
    "group": "H",
    "utcDate": "2026-06-15T16:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Spain",
    "away": "Cape Verde Islands",
    "homeGoals": 0,
@@ -163,12 +163,12 @@
    "stage": "GROUP",
    "group": "G",
    "utcDate": "2026-06-15T19:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Belgium",
    "away": "Egypt",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "winner": "AWAY"
   },
   {
    "id": 537370,
