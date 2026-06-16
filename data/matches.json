@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T19:27:29+00:00",
+ "updated": "2026-06-16T22:01:42+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -199,12 +199,12 @@
    "stage": "GROUP",
    "group": "I",
    "utcDate": "2026-06-16T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "France",
    "away": "Senegal",
-   "homeGoals": 0,
-   "awayGoals": 0,
-   "winner": "DRAW"
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "winner": "HOME"
   },
   {
    "id": 537392,
