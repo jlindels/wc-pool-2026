@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15T22:28:14+00:00",
+ "updated": "2026-06-16T00:15:30+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -175,11 +175,11 @@
    "stage": "GROUP",
    "group": "H",
    "utcDate": "2026-06-15T22:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Saudi Arabia",
    "away": "Uruguay",
-   "homeGoals": 0,
-   "awayGoals": 0,
+   "homeGoals": 1,
+   "awayGoals": 1,
    "winner": "DRAW"
   },
   {
