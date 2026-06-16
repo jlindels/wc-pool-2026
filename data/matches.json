@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T00:15:30+00:00",
+ "updated": "2026-06-16T05:40:04+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -187,12 +187,12 @@
    "stage": "GROUP",
    "group": "G",
    "utcDate": "2026-06-16T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Iran",
    "away": "New Zealand",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "winner": "DRAW"
   },
   {
    "id": 537391,
