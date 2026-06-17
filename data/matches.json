@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-17T16:01:45+00:00",
+ "updated": "2026-06-17T18:30:24+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -31,12 +31,12 @@
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-12T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Canada",
    "away": "Bosnia-Herzegovina",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "winner": "DRAW"
   },
   {
    "id": 537345,
@@ -247,12 +247,12 @@
    "stage": "GROUP",
    "group": "K",
    "utcDate": "2026-06-17T17:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Portugal",
    "away": "Congo DR",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "winner": "DRAW"
   },
   {
    "id": 537409,
