@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-18T18:39:11+00:00",
+ "updated": "2026-06-18T21:15:07+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -307,12 +307,12 @@
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-18T19:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Switzerland",
    "away": "Bosnia-Herzegovina",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "winner": "HOME"
   },
   {
    "id": 537336,
