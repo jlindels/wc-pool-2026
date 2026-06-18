@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-18T00:01:57+00:00",
+ "updated": "2026-06-18T04:58:21+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -274,21 +274,21 @@
    "status": "LIVE",
    "home": "Ghana",
    "away": "Panama",
-   "homeGoals": 0,
+   "homeGoals": 1,
    "awayGoals": 0,
-   "winner": "DRAW"
+   "winner": "HOME"
   },
   {
    "id": 537404,
    "stage": "GROUP",
    "group": "K",
    "utcDate": "2026-06-18T02:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Uzbekistan",
    "away": "Colombia",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "winner": "AWAY"
   },
   {
    "id": 537329,
