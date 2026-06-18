@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-17T22:25:50+00:00",
+ "updated": "2026-06-18T00:01:57+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -271,12 +271,12 @@
    "stage": "GROUP",
    "group": "L",
    "utcDate": "2026-06-17T23:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Ghana",
    "away": "Panama",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537404,
