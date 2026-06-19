@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-19T19:19:26+00:00",
+ "updated": "2026-06-19T20:50:19+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -346,7 +346,7 @@
    "status": "LIVE",
    "home": "United States",
    "away": "Australia",
-   "homeGoals": 1,
+   "homeGoals": 2,
    "awayGoals": 0,
    "winner": "HOME"
   },
