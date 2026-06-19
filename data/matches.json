@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-19T20:50:19+00:00",
+ "updated": "2026-06-19T21:58:06+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -343,7 +343,7 @@
    "stage": "GROUP",
    "group": "D",
    "utcDate": "2026-06-19T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "United States",
    "away": "Australia",
    "homeGoals": 2,
