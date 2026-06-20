@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T21:39:32+00:00",
+ "updated": "2026-06-20T22:54:08+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -403,12 +403,12 @@
    "stage": "GROUP",
    "group": "E",
    "utcDate": "2026-06-20T20:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Germany",
    "away": "Ivory Coast",
-   "homeGoals": 1,
+   "homeGoals": 2,
    "awayGoals": 1,
-   "winner": "DRAW"
+   "winner": "HOME"
   },
   {
    "id": 537354,
