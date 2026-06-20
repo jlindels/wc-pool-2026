@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T01:33:45+00:00",
+ "updated": "2026-06-20T06:01:35+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -367,7 +367,7 @@
    "stage": "GROUP",
    "group": "C",
    "utcDate": "2026-06-20T00:30:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Brazil",
    "away": "Haiti",
    "homeGoals": 3,
@@ -379,12 +379,12 @@
    "stage": "GROUP",
    "group": "D",
    "utcDate": "2026-06-20T03:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Turkey",
    "away": "Paraguay",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "winner": "AWAY"
   },
   {
    "id": 537359,
