@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T05:22:55+00:00",
+ "updated": "2026-06-21T09:28:22+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -427,11 +427,11 @@
    "stage": "GROUP",
    "group": "F",
    "utcDate": "2026-06-21T04:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Tunisia",
    "away": "Japan",
    "homeGoals": 0,
-   "awayGoals": 2,
+   "awayGoals": 4,
    "winner": "AWAY"
   },
   {
