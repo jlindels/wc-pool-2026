@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T19:58:53+00:00",
+ "updated": "2026-06-21T21:39:35+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -442,7 +442,7 @@
    "status": "FINISHED",
    "home": "Spain",
    "away": "Saudi Arabia",
-   "homeGoals": 5,
+   "homeGoals": 4,
    "awayGoals": 0,
    "winner": "HOME"
   },
@@ -451,12 +451,12 @@
    "stage": "GROUP",
    "group": "G",
    "utcDate": "2026-06-21T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Belgium",
    "away": "Iran",
    "homeGoals": 0,
-   "awayGoals": 1,
-   "winner": "AWAY"
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537372,
