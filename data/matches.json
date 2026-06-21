@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T21:39:35+00:00",
+ "updated": "2026-06-21T22:54:43+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -463,12 +463,12 @@
    "stage": "GROUP",
    "group": "H",
    "utcDate": "2026-06-21T22:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Uruguay",
    "away": "Cape Verde Islands",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "winner": "DRAW"
   },
   {
    "id": 537366,
