@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T05:38:26+00:00",
+ "updated": "2026-06-22T19:51:46+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -487,12 +487,12 @@
    "stage": "GROUP",
    "group": "J",
    "utcDate": "2026-06-22T17:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Argentina",
    "away": "Austria",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "winner": "HOME"
   },
   {
    "id": 537393,
