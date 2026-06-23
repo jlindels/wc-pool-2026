@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-23T19:44:57+00:00",
+ "updated": "2026-06-23T21:20:37+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -547,12 +547,12 @@
    "stage": "GROUP",
    "group": "L",
    "utcDate": "2026-06-23T20:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "England",
    "away": "Ghana",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537412,
