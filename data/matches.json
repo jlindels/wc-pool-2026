@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T21:58:50+00:00",
+ "updated": "2026-06-23T01:51:12+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -499,10 +499,10 @@
    "stage": "GROUP",
    "group": "I",
    "utcDate": "2026-06-22T21:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "France",
    "away": "Iraq",
-   "homeGoals": 1,
+   "homeGoals": 3,
    "awayGoals": 0,
    "winner": "HOME"
   },
@@ -511,12 +511,12 @@
    "stage": "GROUP",
    "group": "I",
    "utcDate": "2026-06-23T00:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Norway",
    "away": "Senegal",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "winner": "HOME"
   },
   {
    "id": 537400,
