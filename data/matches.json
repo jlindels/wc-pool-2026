@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-23T17:42:10+00:00",
+ "updated": "2026-06-23T19:44:57+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -535,11 +535,11 @@
    "stage": "GROUP",
    "group": "K",
    "utcDate": "2026-06-23T17:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Portugal",
    "away": "Uzbekistan",
-   "homeGoals": 2,
-   "awayGoals": 1,
+   "homeGoals": 5,
+   "awayGoals": 0,
    "winner": "HOME"
   },
   {
