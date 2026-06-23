@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-23T01:51:12+00:00",
+ "updated": "2026-06-23T06:01:30+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -511,11 +511,11 @@
    "stage": "GROUP",
    "group": "I",
    "utcDate": "2026-06-23T00:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Norway",
    "away": "Senegal",
    "homeGoals": 3,
-   "awayGoals": 1,
+   "awayGoals": 2,
    "winner": "HOME"
   },
   {
@@ -523,12 +523,12 @@
    "stage": "GROUP",
    "group": "J",
    "utcDate": "2026-06-23T03:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Jordan",
    "away": "Algeria",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "winner": "AWAY"
   },
   {
    "id": 537405,
