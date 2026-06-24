@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-24T22:37:09+00:00",
+ "updated": "2026-06-24T23:53:46+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -31,12 +31,12 @@
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-12T19:00:00Z",
-   "status": "FINISHED",
+   "status": "LIVE",
    "home": "Canada",
    "away": "Bosnia-Herzegovina",
-   "homeGoals": 1,
-   "awayGoals": 1,
-   "winner": "DRAW"
+   "homeGoals": null,
+   "awayGoals": null,
+   "winner": null
   },
   {
    "id": 537345,
@@ -611,7 +611,7 @@
    "home": "Scotland",
    "away": "Brazil",
    "homeGoals": 0,
-   "awayGoals": 2,
+   "awayGoals": 3,
    "winner": "AWAY"
   },
   {
@@ -622,9 +622,9 @@
    "status": "LIVE",
    "home": "Morocco",
    "away": "Haiti",
-   "homeGoals": 0,
-   "awayGoals": 1,
-   "winner": "AWAY"
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "winner": "HOME"
   },
   {
    "id": 537331,
