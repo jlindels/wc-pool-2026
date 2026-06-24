@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-23T23:43:55+00:00",
+ "updated": "2026-06-24T01:49:09+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -559,12 +559,12 @@
    "stage": "GROUP",
    "group": "L",
    "utcDate": "2026-06-23T23:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Panama",
    "away": "Croatia",
    "homeGoals": 0,
-   "awayGoals": 0,
-   "winner": "DRAW"
+   "awayGoals": 1,
+   "winner": "AWAY"
   },
   {
    "id": 537406,
