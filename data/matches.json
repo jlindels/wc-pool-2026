@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-24T17:23:10+00:00",
+ "updated": "2026-06-24T19:16:06+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -583,24 +583,24 @@
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-24T19:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Switzerland",
    "away": "Canada",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537338,
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-24T19:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Bosnia-Herzegovina",
    "away": "Qatar",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537343,
@@ -896,7 +896,7 @@
    "group": null,
    "utcDate": "2026-06-29T20:30:00Z",
    "status": "SCHEDULED",
-   "home": "Germany",
+   "home": null,
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
@@ -944,7 +944,7 @@
    "group": null,
    "utcDate": "2026-07-01T01:00:00Z",
    "status": "SCHEDULED",
-   "home": "Mexico",
+   "home": null,
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
@@ -980,7 +980,7 @@
    "group": null,
    "utcDate": "2026-07-02T00:00:00Z",
    "status": "SCHEDULED",
-   "home": "United States",
+   "home": null,
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
@@ -1040,7 +1040,7 @@
    "group": null,
    "utcDate": "2026-07-03T22:00:00Z",
    "status": "SCHEDULED",
-   "home": "Argentina",
+   "home": null,
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
