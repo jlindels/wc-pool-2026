@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-24T19:16:06+00:00",
+ "updated": "2026-06-24T21:01:34+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -583,12 +583,12 @@
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-24T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Switzerland",
    "away": "Canada",
-   "homeGoals": 0,
-   "awayGoals": 0,
-   "winner": "DRAW"
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "winner": "HOME"
   },
   {
    "id": 537338,
@@ -598,9 +598,9 @@
    "status": "LIVE",
    "home": "Bosnia-Herzegovina",
    "away": "Qatar",
-   "homeGoals": 0,
-   "awayGoals": 0,
-   "winner": "DRAW"
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "winner": "HOME"
   },
   {
    "id": 537343,
