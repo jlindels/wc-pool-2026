@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-25T22:09:13+00:00",
+ "updated": "2026-06-25T23:48:16+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -679,24 +679,24 @@
    "stage": "GROUP",
    "group": "F",
    "utcDate": "2026-06-25T23:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Tunisia",
    "away": "Netherlands",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "winner": "AWAY"
   },
   {
    "id": 537362,
    "stage": "GROUP",
    "group": "F",
    "utcDate": "2026-06-25T23:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Japan",
    "away": "Sweden",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537349,
