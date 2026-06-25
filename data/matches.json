@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-24T23:53:46+00:00",
+ "updated": "2026-06-25T04:20:23+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -31,12 +31,12 @@
    "stage": "GROUP",
    "group": "B",
    "utcDate": "2026-06-12T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Canada",
    "away": "Bosnia-Herzegovina",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "winner": "DRAW"
   },
   {
    "id": 537345,
@@ -607,7 +607,7 @@
    "stage": "GROUP",
    "group": "C",
    "utcDate": "2026-06-24T22:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Scotland",
    "away": "Brazil",
    "homeGoals": 0,
@@ -619,10 +619,10 @@
    "stage": "GROUP",
    "group": "C",
    "utcDate": "2026-06-24T22:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Morocco",
    "away": "Haiti",
-   "homeGoals": 3,
+   "homeGoals": 4,
    "awayGoals": 2,
    "winner": "HOME"
   },
@@ -631,24 +631,24 @@
    "stage": "GROUP",
    "group": "A",
    "utcDate": "2026-06-25T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Czechia",
    "away": "Mexico",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "winner": "AWAY"
   },
   {
    "id": 537332,
    "stage": "GROUP",
    "group": "A",
    "utcDate": "2026-06-25T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "South Africa",
    "away": "South Korea",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "winner": "HOME"
   },
   {
    "id": 537355,
