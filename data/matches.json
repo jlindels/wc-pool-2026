@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26T15:14:40+00:00",
+ "updated": "2026-06-26T17:12:10+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -631,72 +631,72 @@
    "stage": "GROUP",
    "group": "A",
    "utcDate": "2026-06-25T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Czechia",
    "away": "Mexico",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "winner": "AWAY"
   },
   {
    "id": 537332,
    "stage": "GROUP",
    "group": "A",
    "utcDate": "2026-06-25T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "South Africa",
    "away": "South Korea",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "winner": "HOME"
   },
   {
    "id": 537355,
    "stage": "GROUP",
    "group": "E",
    "utcDate": "2026-06-25T20:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Ecuador",
    "away": "Germany",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "winner": "HOME"
   },
   {
    "id": 537356,
    "stage": "GROUP",
    "group": "E",
    "utcDate": "2026-06-25T20:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Curaçao",
    "away": "Ivory Coast",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "winner": "AWAY"
   },
   {
    "id": 537361,
    "stage": "GROUP",
    "group": "F",
    "utcDate": "2026-06-25T23:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Tunisia",
    "away": "Netherlands",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "winner": "AWAY"
   },
   {
    "id": 537362,
    "stage": "GROUP",
    "group": "F",
    "utcDate": "2026-06-25T23:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Japan",
    "away": "Sweden",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "winner": "DRAW"
   },
   {
    "id": 537349,
@@ -872,8 +872,8 @@
    "group": null,
    "utcDate": "2026-06-28T19:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "South Africa",
+   "away": "Canada",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -884,8 +884,8 @@
    "group": null,
    "utcDate": "2026-06-29T17:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "Brazil",
+   "away": "Japan",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -908,8 +908,8 @@
    "group": null,
    "utcDate": "2026-06-30T01:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "Netherlands",
+   "away": "Morocco",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -981,7 +981,7 @@
    "utcDate": "2026-07-02T00:00:00Z",
    "status": "SCHEDULED",
    "home": "United States",
-   "away": null,
+   "away": "Bosnia-Herzegovina",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -1016,7 +1016,7 @@
    "group": null,
    "utcDate": "2026-07-03T03:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
+   "home": "Switzerland",
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
@@ -1028,7 +1028,7 @@
    "group": null,
    "utcDate": "2026-07-03T18:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
+   "home": "Australia",
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
