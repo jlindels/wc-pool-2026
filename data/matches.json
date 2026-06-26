@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26T19:11:40+00:00",
+ "updated": "2026-06-26T20:59:45+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -730,9 +730,9 @@
    "status": "LIVE",
    "home": "Norway",
    "away": "France",
-   "homeGoals": 0,
-   "awayGoals": 0,
-   "winner": "DRAW"
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "winner": "AWAY"
   },
   {
    "id": 537396,
@@ -742,7 +742,7 @@
    "status": "LIVE",
    "home": "Senegal",
    "away": "Iraq",
-   "homeGoals": 1,
+   "homeGoals": 5,
    "awayGoals": 0,
    "winner": "HOME"
   },
