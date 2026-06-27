@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26T22:21:38+00:00",
+ "updated": "2026-06-27T01:47:39+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -751,24 +751,24 @@
    "stage": "GROUP",
    "group": "H",
    "utcDate": "2026-06-27T00:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Uruguay",
    "away": "Spain",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "winner": "AWAY"
   },
   {
    "id": 537374,
    "stage": "GROUP",
    "group": "H",
    "utcDate": "2026-06-27T00:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Cape Verde Islands",
    "away": "Saudi Arabia",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537367,
