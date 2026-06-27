@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T22:47:00+00:00",
+ "updated": "2026-06-27T23:46:44+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -799,7 +799,7 @@
    "stage": "GROUP",
    "group": "L",
    "utcDate": "2026-06-27T21:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Panama",
    "away": "England",
    "homeGoals": 0,
@@ -811,36 +811,36 @@
    "stage": "GROUP",
    "group": "L",
    "utcDate": "2026-06-27T21:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Croatia",
    "away": "Ghana",
-   "homeGoals": 1,
+   "homeGoals": 2,
    "awayGoals": 1,
-   "winner": "DRAW"
+   "winner": "HOME"
   },
   {
    "id": 537407,
    "stage": "GROUP",
    "group": "K",
    "utcDate": "2026-06-27T23:30:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Colombia",
    "away": "Portugal",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537408,
    "stage": "GROUP",
    "group": "K",
    "utcDate": "2026-06-27T23:30:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Congo DR",
    "away": "Uzbekistan",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "winner": "AWAY"
   },
   {
    "id": 537401,
