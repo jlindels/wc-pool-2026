@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T23:46:44+00:00",
+ "updated": "2026-06-28T01:57:56+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -823,7 +823,7 @@
    "stage": "GROUP",
    "group": "K",
    "utcDate": "2026-06-27T23:30:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Colombia",
    "away": "Portugal",
    "homeGoals": 0,
@@ -835,12 +835,12 @@
    "stage": "GROUP",
    "group": "K",
    "utcDate": "2026-06-27T23:30:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Congo DR",
    "away": "Uzbekistan",
-   "homeGoals": 0,
+   "homeGoals": 3,
    "awayGoals": 1,
-   "winner": "AWAY"
+   "winner": "HOME"
   },
   {
    "id": 537401,
