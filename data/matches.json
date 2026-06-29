@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-29T22:17:56+00:00",
+ "updated": "2026-06-29T23:30:00+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -898,9 +898,10 @@
    "status": "LIVE",
    "home": "Germany",
    "away": "Paraguay",
-   "homeGoals": 1,
-   "awayGoals": 1,
-   "winner": "DRAW"
+   "homeGoals": 4,
+   "awayGoals": 5,
+   "winner": null,
+   "penalties": "4-4"
   },
   {
    "id": 537418,
