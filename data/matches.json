@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-29T09:56:25+00:00",
+ "updated": "2026-06-29T17:14:51+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -883,12 +883,12 @@
    "stage": "R32",
    "group": null,
    "utcDate": "2026-06-29T17:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Brazil",
    "away": "Japan",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537415,
