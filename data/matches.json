@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T22:44:46+00:00",
+ "updated": "2026-06-30T23:54:24+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -933,7 +933,7 @@
    "stage": "R32",
    "group": null,
    "utcDate": "2026-06-30T21:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "France",
    "away": "Sweden",
    "homeGoals": 3,
