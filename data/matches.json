@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T21:10:00+00:00",
+ "updated": "2026-06-30T22:44:46+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -936,9 +936,9 @@
    "status": "LIVE",
    "home": "France",
    "away": "Sweden",
-   "homeGoals": 0,
+   "homeGoals": 3,
    "awayGoals": 0,
-   "winner": "DRAW"
+   "winner": "HOME"
   },
   {
    "id": 537425,
