@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T05:53:09+00:00",
+ "updated": "2026-06-30T09:57:39+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -900,8 +900,8 @@
    "away": "Paraguay",
    "homeGoals": 4,
    "awayGoals": 5,
-   "winner": null,
-   "penalties": "4-4"
+   "winner": "AWAY",
+   "penalties": "3-4"
   },
   {
    "id": 537418,
@@ -913,8 +913,8 @@
    "away": "Morocco",
    "homeGoals": 3,
    "awayGoals": 4,
-   "winner": null,
-   "penalties": "3-3"
+   "winner": "AWAY",
+   "penalties": "2-3"
   },
   {
    "id": 537424,
@@ -1067,7 +1067,7 @@
    "utcDate": "2026-07-04T17:00:00Z",
    "status": "SCHEDULED",
    "home": "Canada",
-   "away": null,
+   "away": "Morocco",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -1078,7 +1078,7 @@
    "group": null,
    "utcDate": "2026-07-04T21:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
+   "home": "Paraguay",
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
@@ -1090,7 +1090,7 @@
    "group": null,
    "utcDate": "2026-07-05T20:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
+   "home": "Brazil",
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
