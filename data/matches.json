@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T04:49:51+00:00",
+ "updated": "2026-07-01T08:43:33+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1079,7 +1079,7 @@
    "utcDate": "2026-07-04T21:00:00Z",
    "status": "SCHEDULED",
    "home": "Paraguay",
-   "away": null,
+   "away": "France",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -1091,7 +1091,7 @@
    "utcDate": "2026-07-05T20:00:00Z",
    "status": "SCHEDULED",
    "home": "Brazil",
-   "away": null,
+   "away": "Norway",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
