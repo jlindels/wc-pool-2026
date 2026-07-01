@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T16:36:52+00:00",
+ "updated": "2026-07-01T18:30:28+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -957,12 +957,12 @@
    "stage": "R32",
    "group": null,
    "utcDate": "2026-07-01T16:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "England",
    "away": "Congo DR",
-   "homeGoals": 0,
+   "homeGoals": 2,
    "awayGoals": 1,
-   "winner": "AWAY"
+   "winner": "HOME"
   },
   {
    "id": 537422,
