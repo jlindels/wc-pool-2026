@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T22:06:44+00:00",
+ "updated": "2026-07-01T23:42:04+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -969,12 +969,12 @@
    "stage": "R32",
    "group": null,
    "utcDate": "2026-07-01T20:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Belgium",
    "away": "Senegal",
-   "homeGoals": 2,
+   "homeGoals": 3,
    "awayGoals": 2,
-   "winner": "DRAW"
+   "winner": "HOME"
   },
   {
    "id": 537421,
