@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T19:57:06+00:00",
+ "updated": "2026-07-02T21:20:54+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -993,10 +993,10 @@
    "stage": "R32",
    "group": null,
    "utcDate": "2026-07-02T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Spain",
    "away": "Austria",
-   "homeGoals": 1,
+   "homeGoals": 3,
    "awayGoals": 0,
    "winner": "HOME"
   },
