@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T06:07:50+00:00",
+ "updated": "2026-07-02T09:39:23+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1102,8 +1102,8 @@
    "group": null,
    "utcDate": "2026-07-06T00:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "Mexico",
+   "away": "England",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -1126,8 +1126,8 @@
    "group": null,
    "utcDate": "2026-07-07T00:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "United States",
+   "away": "Belgium",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
