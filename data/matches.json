@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T23:43:14+00:00",
+ "updated": "2026-07-03T01:22:28+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1005,11 +1005,11 @@
    "stage": "R32",
    "group": null,
    "utcDate": "2026-07-02T23:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Portugal",
    "away": "Croatia",
-   "homeGoals": 0,
-   "awayGoals": 0,
+   "homeGoals": 2,
+   "awayGoals": 2,
    "winner": "DRAW"
   },
   {
