@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T05:33:58+00:00",
+ "updated": "2026-07-03T18:22:35+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1029,12 +1029,12 @@
    "stage": "R32",
    "group": null,
    "utcDate": "2026-07-03T18:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Australia",
    "away": "Egypt",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "winner": "AWAY"
   },
   {
    "id": 537427,
