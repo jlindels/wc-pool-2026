@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T18:22:35+00:00",
+ "updated": "2026-07-03T20:01:22+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1032,9 +1032,9 @@
    "status": "LIVE",
    "home": "Australia",
    "away": "Egypt",
-   "homeGoals": 0,
+   "homeGoals": 1,
    "awayGoals": 1,
-   "winner": "AWAY"
+   "winner": "DRAW"
   },
   {
    "id": 537427,
