@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T22:30:59+00:00",
+ "updated": "2026-07-03T23:39:00+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1045,8 +1045,8 @@
    "status": "LIVE",
    "home": "Argentina",
    "away": "Cape Verde Islands",
-   "homeGoals": 0,
-   "awayGoals": 0,
+   "homeGoals": 1,
+   "awayGoals": 1,
    "winner": "DRAW"
   },
   {
