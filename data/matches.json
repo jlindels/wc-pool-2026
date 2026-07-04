@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T23:39:00+00:00",
+ "updated": "2026-07-04T01:22:09+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1042,12 +1042,12 @@
    "stage": "R32",
    "group": null,
    "utcDate": "2026-07-03T22:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Argentina",
    "away": "Cape Verde Islands",
-   "homeGoals": 1,
-   "awayGoals": 1,
-   "winner": "DRAW"
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "winner": "HOME"
   },
   {
    "id": 537430,
