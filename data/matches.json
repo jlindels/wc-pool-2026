@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T05:27:21+00:00",
+ "updated": "2026-07-04T08:13:06+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1034,8 +1034,8 @@
    "away": "Egypt",
    "homeGoals": 3,
    "awayGoals": 5,
-   "winner": null,
-   "penalties": "4-4"
+   "winner": "AWAY",
+   "penalties": "2-4"
   },
   {
    "id": 537427,
@@ -1115,8 +1115,8 @@
    "group": null,
    "utcDate": "2026-07-06T19:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "Portugal",
+   "away": "Spain",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -1139,8 +1139,8 @@
    "group": null,
    "utcDate": "2026-07-07T16:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "Argentina",
+   "away": "Egypt",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
@@ -1151,8 +1151,8 @@
    "group": null,
    "utcDate": "2026-07-07T20:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "Switzerland",
+   "away": "Colombia",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
