@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T18:45:13+00:00",
+ "updated": "2026-07-04T20:01:11+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1066,11 +1066,11 @@
    "stage": "R16",
    "group": null,
    "utcDate": "2026-07-04T17:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Canada",
    "away": "Morocco",
    "homeGoals": 0,
-   "awayGoals": 1,
+   "awayGoals": 3,
    "winner": "AWAY"
   },
   {
