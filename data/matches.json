@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T22:44:13+00:00",
+ "updated": "2026-07-05T23:50:39+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1101,7 +1101,7 @@
    "id": 537378,
    "stage": "R16",
    "group": null,
-   "utcDate": "2026-07-06T00:00:00Z",
+   "utcDate": "2026-07-06T01:00:00Z",
    "status": "SCHEDULED",
    "home": "Mexico",
    "away": "England",
