@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T08:28:57+00:00",
+ "updated": "2026-07-05T20:42:54+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1090,12 +1090,12 @@
    "stage": "R16",
    "group": null,
    "utcDate": "2026-07-05T20:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Brazil",
    "away": "Norway",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537378,
