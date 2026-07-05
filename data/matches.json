@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T23:26:38+00:00",
+ "updated": "2026-07-05T08:28:57+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1163,8 +1163,8 @@
    "group": null,
    "utcDate": "2026-07-09T20:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "France",
+   "away": "Morocco",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
