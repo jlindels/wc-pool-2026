@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T23:50:39+00:00",
+ "updated": "2026-07-06T02:24:13+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1102,12 +1102,12 @@
    "stage": "R16",
    "group": null,
    "utcDate": "2026-07-06T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Mexico",
    "away": "England",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "winner": "AWAY"
   },
   {
    "id": 537379,
