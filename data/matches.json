@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T04:13:16+00:00",
+ "updated": "2026-07-07T07:56:03+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1175,8 +1175,8 @@
    "group": null,
    "utcDate": "2026-07-10T19:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "Spain",
+   "away": "Belgium",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
