@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T22:48:43+00:00",
+ "updated": "2026-07-07T23:41:31+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1153,10 +1153,10 @@
    "status": "FINISHED",
    "home": "Switzerland",
    "away": "Colombia",
-   "homeGoals": 0,
-   "awayGoals": 1,
+   "homeGoals": 4,
+   "awayGoals": 3,
    "winner": null,
-   "penalties": "1-1"
+   "penalties": "3-3"
   },
   {
    "id": 537383,
