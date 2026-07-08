@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T23:41:31+00:00",
+ "updated": "2026-07-08T07:17:20+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1155,8 +1155,8 @@
    "away": "Colombia",
    "homeGoals": 4,
    "awayGoals": 3,
-   "winner": null,
-   "penalties": "3-3"
+   "winner": "HOME",
+   "penalties": "4-3"
   },
   {
    "id": 537383,
@@ -1200,8 +1200,8 @@
    "group": null,
    "utcDate": "2026-07-12T01:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "Argentina",
+   "away": "Switzerland",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
