@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T07:17:20+00:00",
+ "updated": "2026-07-09T20:27:08+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1163,12 +1163,12 @@
    "stage": "QF",
    "group": null,
    "utcDate": "2026-07-09T20:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "France",
    "away": "Morocco",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537384,
