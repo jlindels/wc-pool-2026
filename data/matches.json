@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T08:45:41+00:00",
+ "updated": "2026-07-10T19:48:37+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1175,12 +1175,12 @@
    "stage": "QF",
    "group": null,
    "utcDate": "2026-07-10T19:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Spain",
    "away": "Belgium",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "winner": "DRAW"
   },
   {
    "id": 537385,
