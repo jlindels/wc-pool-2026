@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T19:48:37+00:00",
+ "updated": "2026-07-10T20:56:45+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1178,9 +1178,9 @@
    "status": "LIVE",
    "home": "Spain",
    "away": "Belgium",
-   "homeGoals": 1,
+   "homeGoals": 2,
    "awayGoals": 1,
-   "winner": "DRAW"
+   "winner": "HOME"
   },
   {
    "id": 537385,
