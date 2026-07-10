@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T22:06:18+00:00",
+ "updated": "2026-07-10T08:45:41+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1212,7 +1212,7 @@
    "group": null,
    "utcDate": "2026-07-14T19:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
+   "home": "France",
    "away": null,
    "homeGoals": null,
    "awayGoals": null,
