@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T22:29:25+00:00",
+ "updated": "2026-07-11T23:33:47+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1190,9 +1190,9 @@
    "status": "LIVE",
    "home": "Norway",
    "away": "England",
-   "homeGoals": 2,
-   "awayGoals": 1,
-   "winner": "HOME"
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "winner": "AWAY"
   },
   {
    "id": 537386,
