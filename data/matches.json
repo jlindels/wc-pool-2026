@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T01:10:53+00:00",
+ "updated": "2026-07-12T04:43:47+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1199,12 +1199,12 @@
    "stage": "QF",
    "group": null,
    "utcDate": "2026-07-12T01:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Argentina",
    "away": "Switzerland",
-   "homeGoals": 0,
-   "awayGoals": 0,
-   "winner": "DRAW"
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "winner": "HOME"
   },
   {
    "id": 537387,
