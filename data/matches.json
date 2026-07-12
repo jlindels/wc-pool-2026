@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T23:33:47+00:00",
+ "updated": "2026-07-12T01:10:53+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1187,7 +1187,7 @@
    "stage": "QF",
    "group": null,
    "utcDate": "2026-07-11T21:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Norway",
    "away": "England",
    "homeGoals": 1,
@@ -1199,12 +1199,12 @@
    "stage": "QF",
    "group": null,
    "utcDate": "2026-07-12T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "Argentina",
    "away": "Switzerland",
-   "homeGoals": null,
-   "awayGoals": null,
-   "winner": null
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "winner": "DRAW"
   },
   {
    "id": 537387,
