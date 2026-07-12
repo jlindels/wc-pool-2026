@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T04:43:47+00:00",
+ "updated": "2026-07-12T07:21:27+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1102,7 +1102,7 @@
    "stage": "R16",
    "group": null,
    "utcDate": "2026-07-06T01:00:00Z",
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "Mexico",
    "away": "England",
    "homeGoals": 2,
@@ -1224,8 +1224,8 @@
    "group": null,
    "utcDate": "2026-07-15T19:00:00Z",
    "status": "SCHEDULED",
-   "home": null,
-   "away": null,
+   "home": "England",
+   "away": "Argentina",
    "homeGoals": null,
    "awayGoals": null,
    "winner": null
