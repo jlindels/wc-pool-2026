@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T20:45:48+00:00",
+ "updated": "2026-07-14T21:42:14+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1211,7 +1211,7 @@
    "stage": "SF",
    "group": null,
    "utcDate": "2026-07-14T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "France",
    "away": "Spain",
    "homeGoals": 0,
