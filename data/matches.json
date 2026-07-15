@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T19:57:48+00:00",
+ "updated": "2026-07-15T21:11:55+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1223,12 +1223,12 @@
    "stage": "SF",
    "group": null,
    "utcDate": "2026-07-15T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "England",
    "away": "Argentina",
-   "homeGoals": 0,
-   "awayGoals": 0,
-   "winner": "DRAW"
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "winner": "AWAY"
   },
   {
    "id": 537389,
