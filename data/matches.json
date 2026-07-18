@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T21:31:29+00:00",
+ "updated": "2026-07-18T22:28:28+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1238,8 +1238,8 @@
    "status": "LIVE",
    "home": "France",
    "away": "England",
-   "homeGoals": 0,
-   "awayGoals": 2,
+   "homeGoals": 2,
+   "awayGoals": 4,
    "winner": "AWAY"
   },
   {
