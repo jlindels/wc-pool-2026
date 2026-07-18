@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T22:28:28+00:00",
+ "updated": "2026-07-18T23:33:18+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1235,11 +1235,11 @@
    "stage": "THIRD",
    "group": null,
    "utcDate": "2026-07-18T21:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "France",
    "away": "England",
-   "homeGoals": 2,
-   "awayGoals": 4,
+   "homeGoals": 4,
+   "awayGoals": 6,
    "winner": "AWAY"
   },
   {
