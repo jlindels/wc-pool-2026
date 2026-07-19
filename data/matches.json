@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T22:05:37+00:00",
+ "updated": "2026-07-19T23:08:07+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1247,7 +1247,7 @@
    "stage": "FINAL",
    "group": null,
    "utcDate": "2026-07-19T19:00:00Z",
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "Spain",
    "away": "Argentina",
    "homeGoals": 1,
