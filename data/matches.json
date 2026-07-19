@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T19:58:09+00:00",
+ "updated": "2026-07-19T22:05:37+00:00",
  "source": "football-data.org",
  "matches": [
   {
@@ -1250,9 +1250,9 @@
    "status": "LIVE",
    "home": "Spain",
    "away": "Argentina",
-   "homeGoals": 0,
+   "homeGoals": 1,
    "awayGoals": 0,
-   "winner": "DRAW"
+   "winner": "HOME"
   }
  ]
 }
